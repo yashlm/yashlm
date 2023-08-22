@@ -1,6 +1,10 @@
-<div align="center" >
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200px" >
-</div>
+<h2 align="center">👋 Hi, I’m Yash Chauhan</h2>
+- I'm a Sophomore at Indian Institute of Technology, Kanpur
+
+<br>
+<br>
+<br>
+
 <div align="center">
 <a href="https://www.linkedin.com/in/yash-chauhan-10b696250/" alt="linkedin" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" width="100px" height="25">
@@ -10,8 +14,6 @@
 </a>
 </div>
 
-<h2 align="center">👋 Hi, I’m Yash Chauhan</h2>
-- I'm a Sophomore at Indian Institute of Technology, Kanpur
 
 <!--
 **yashlm/yashlm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
