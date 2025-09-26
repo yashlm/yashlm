@@ -1,9 +1,13 @@
 <h2 align="center">👋 Hi, I’m Yash Chauhan</h2>
-- I'm a Pre-Final Year Undergraduate at Indian Institute of Technology, Kanpur <br>
-- I'm currently working as the Web Head at Students' Placement Office, IITK and Web&App Head at Antaragni, IITK <br>
-- I have keen interest in Deep Learning, DevOps and Data Science <br>
+
+- Final-Year Undergraduate at **Indian Institute of Technology, Kanpur**  
+- Former **Web Head** at Students' Placement Office, IITK and **Web & App Head** at Antaragni, IITK  
+- Interned at **Actual Inc.** and **Battery Smart** as **Software Engineer**  
+- Keen interest in **Deep Learning**, **DevOps**, and **Data Science**  
+- Experienced in building full-stack applications, cloud deployments, and leading tech teams  
 
 <br>
+
 
 <div align="center">
 <a href="https://www.linkedin.com/in/yash-chauhan-10b696250/" alt="linkedin" target="_blank">
